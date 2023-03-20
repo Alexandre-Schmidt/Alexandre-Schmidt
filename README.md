@@ -10,8 +10,8 @@ Fascinated by technologies, by how they impact the course of human history, with
 
 ```
 
-- 💻 Freelance developer.
-- 🎓 Studying developer full stack no Rocketseat
+- 💻 Freelancer developer.
+- 🎓 Studying developer full stack at Rocketseat
 - 💼 Working as developer full stack
 
 ```
