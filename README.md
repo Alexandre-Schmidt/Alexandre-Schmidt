@@ -16,7 +16,7 @@ Fascinated by technologies, by how they impact the course of human history, with
 
 ```
 
-## **Skills:**  
+## **Skills**  
 
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -32,22 +32,11 @@ Fascinated by technologies, by how they impact the course of human history, with
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Alexandre-Schmidt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Schmidt&theme=Merko&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Schmidt&langs_count=8&theme=merko)](https://github.com/Alexandre-Schmidt/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Schmidt&theme=merko)](https://github.com/Alexandre-Schmidt/github-readme-stats)
 
-<a href="https://github.com/Alexandre-Schmidt">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Schmidt&show_icons=true&theme=Merko&line_height=27" alt="Alexandre Schmidt github stats"/>
-</a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-## **Contact!**
+## **Contact**
 
 <a href="mailto:ale.tec.hma@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
