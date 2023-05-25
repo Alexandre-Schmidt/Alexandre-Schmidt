@@ -12,7 +12,7 @@ Fascinated by technologies, by how they impact the course of human history, with
 
 - 💻 Freelancer developer.
 - 🎓 Studying developer full stack at Rocketseat
-- 💼 Working as developer full stack
+- 💼 Working as developer Front-end
 
 ```
 
